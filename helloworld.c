@@ -6,6 +6,6 @@ int main(int argc, char **argv) {
   puts("changes in testing branch");
   puts("more output");
   //rickroll
-  puts("Never gonna give you up~")
+  puts("Never gonna give you up~");
   return 0;
 }
