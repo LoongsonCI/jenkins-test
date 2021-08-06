@@ -5,5 +5,6 @@ int main(int argc, char **argv) {
   puts("just a new output calling");
   puts("changes in testing branch");
   puts("more output");
+  rickroll
   return 0;
 }
