@@ -8,5 +8,6 @@ int main(int argc, char **argv) {
   //rickroll
   puts("Never gonna give you up~");
   puts("Never gonna let you down~");
+  puts("It's actually a rickrolling repo!");
   return 0;
 }
