@@ -9,5 +9,6 @@ int main(int argc, char **argv) {
   puts("Never gonna give you up~");
   puts("Never gonna let you down~");
   puts("It's actually a rickrolling repo!");
+  puts("hello");
   return 0;
 }
