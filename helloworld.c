@@ -11,5 +11,6 @@ int main(int argc, char **argv) {
   puts("It's actually a rickrolling repo!");
   puts("hello");
   puts("helloworld");
+  puts("hi!");
   return 0;
 }
